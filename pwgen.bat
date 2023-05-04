@@ -7,5 +7,4 @@ set PWLEN=8
 set PWLEN=10
 "%APG%" %OPTIONS% -m %PWLEN% -x %PWLEN% 
 set PWLEN=15
-"%APG%" %OPTIONS% -m %PWLEN% -x %PWLEN% 
-
+"%APG%" %OPTIONS% -m %PWLEN% -x %PWLEN%
