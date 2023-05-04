@@ -8,3 +8,4 @@ set PWLEN=10
 "%APG%" %OPTIONS% -m %PWLEN% -x %PWLEN% 
 set PWLEN=15
 "%APG%" %OPTIONS% -m %PWLEN% -x %PWLEN% 
+
